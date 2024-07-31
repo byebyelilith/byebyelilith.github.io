@@ -2,17 +2,14 @@
     "title":"Mugen 的博客",
     "subTitle":"gmeek个人博客实践",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
-}
-{
+    "GMEEK_VERSION":"last",
     "displayTitle":"Meekdai",
     "homeUrl":"http://blog.meekdai.com",
     "faviconUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "email":"meekdai@163.com",
+    "email":"rickandmorty@foxmail.com",
     "startSite":"02/16/2015",
-    "filingNum":"浙ICP备20023628号",
-    "onePageListNum":15,
-    "singlePage":["about"]
+    "filingNum":"备案号？",
+    "onePageListNum":15
 }
 
 

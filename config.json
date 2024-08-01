@@ -5,9 +5,9 @@
     "GMEEK_VERSION":"last",
     "displayTitle":"Mugen 的博客",
     "faviconUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "email":"meekdai@163.com",
-    "startSite":"02/16/2015",
-    "filingNum":"浙ICP备20023628号",
+    "email":"rickandmorty@foxmail.com",
+    "startSite":"07/31/2024",
+    "filingNum":"github服务器其实挺快的",
     "onePageListNum":15,
     "singlePage":["about"],
     "iconList":{"music":"M8 16A8 8 0 1 1 8 0a8 8 0 0 1 0 16Zm2.33-11.5c-1.22 0-1.83.5-2.323 1.136C7.513 5 6.903 4.5 5.682 4.5c-1.028 0-2.169.784-2.169 2.5 0 1.499 1.493 3.433 3.246 4.517.52.321.89.479 1.248.484.357-.005.728-.163 1.247-.484C11.007 10.433 12.5 8.5 12.5 7c0-1.716-1.14-2.5-2.17-2.5Z"},
@@ -31,7 +31,7 @@
     "bottomText":"转载请注明出处",
     "ogImage":"https://cdn.jsdelivr.net/gh/Meekdai/meekdai.github.io/logo64.jpg",
     "primerCSS":"<link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />",
-    "needComment":0
+    "needComment":1
 }
 
 
